@@ -57,7 +57,7 @@
 
 이 프로젝트는 오픈소스입니다.
 
-- **피드백·아이디어 제안:** [Issues](https://github.com/bibi-is-typing/growth-partner-prompt/issues
+- **피드백·아이디어 제안:** [Issues](https://github.com/bibi-is-typing/growth-partner-prompt/issues)
 - **프롬프트 개선:** [Pull Requests](https://github.com/bibi-is-typing/growth-partner-prompt/pulls)
 
 ---
